@@ -14,6 +14,7 @@
 		7374BB281EEEF0AA002D2515 /* MyScrollView.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7374BB261EEEF0AA002D2515 /* MyScrollView.xcdatamodeld */; };
 		7374BB2A1EEEF0AA002D2515 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7374BB291EEEF0AA002D2515 /* Assets.xcassets */; };
 		7374BB2D1EEEF0AA002D2515 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7374BB2B1EEEF0AA002D2515 /* LaunchScreen.storyboard */; };
+		7374BB361EEF06BB002D2515 /* MyScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7374BB351EEF06BB002D2515 /* MyScrollView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		7374BB291EEEF0AA002D2515 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7374BB2C1EEEF0AA002D2515 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7374BB2E1EEEF0AA002D2515 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7374BB341EEF06BB002D2515 /* MyScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyScrollView.h; sourceTree = "<group>"; };
+		7374BB351EEF06BB002D2515 /* MyScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyScrollView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,8 @@
 				7374BB1E1EEEF0AA002D2515 /* AppDelegate.m */,
 				7374BB201EEEF0AA002D2515 /* ViewController.h */,
 				7374BB211EEEF0AA002D2515 /* ViewController.m */,
+				7374BB341EEF06BB002D2515 /* MyScrollView.h */,
+				7374BB351EEF06BB002D2515 /* MyScrollView.m */,
 				7374BB231EEEF0AA002D2515 /* Main.storyboard */,
 				7374BB291EEEF0AA002D2515 /* Assets.xcassets */,
 				7374BB2B1EEEF0AA002D2515 /* LaunchScreen.storyboard */,
@@ -157,6 +162,7 @@
 				7374BB221EEEF0AA002D2515 /* ViewController.m in Sources */,
 				7374BB281EEEF0AA002D2515 /* MyScrollView.xcdatamodeld in Sources */,
 				7374BB1F1EEEF0AA002D2515 /* AppDelegate.m in Sources */,
+				7374BB361EEF06BB002D2515 /* MyScrollView.m in Sources */,
 				7374BB1C1EEEF0AA002D2515 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
